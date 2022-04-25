@@ -1,0 +1,26 @@
+
+body {
+    font: 20px arial, sans-serif;
+}
+.navbar {
+    background-color: white;
+}
+.quem-somos {
+    background-color: #A8C6DD;
+    color: rgb(0, 0, 0);
+    font-family: Verdana;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #b1b6c2e6;
+}
+.bg-footer {
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    font-family: apple-system;
+}
